@@ -1,0 +1,21 @@
+body {background-color: lightsteelblue}
+h1,h2 {background-color: #344ea2; 
+       color: white; 
+       text-align: center;
+       border: 2px solid white;
+       padding: 10px 20px;}
+section {margin-left: 5px;}
+fieldset {margin-right: 75%; border-color: white;}
+.red {color: red;}
+.green {color: green;}
+object {border: 2px solid white; margin-bottom: 5px; margin-top: -10px;}
+.fieldset {border-color: white;}
+table {border-style:Solid;
+       border-width: 1px;
+       border-collapse: collapse;
+       table-layout: fixed;
+       border-color: white;}
+th,td {padding: 5px 25px;
+       border-style:Solid;
+       border-width: 1px;
+       border-color: white}
